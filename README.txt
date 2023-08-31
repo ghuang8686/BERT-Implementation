@@ -1,0 +1,1 @@
+This project is to study, explore and implement the BERT model for Document Classification purpose.
